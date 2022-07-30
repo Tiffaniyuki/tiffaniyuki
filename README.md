@@ -29,4 +29,4 @@ I'm currently attending Flatiron School for Software Engineering.</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiffaniyuki&show_icons=true&locale=en" alt="tiffaniyuki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiffaniyuki&" alt="tiffaniyuki" /></p>
-https://user-images.githubusercontent.com/102499217/181905316-5e618322-f0c6-41fd-b1c9-4d19a38093a4.png
+
