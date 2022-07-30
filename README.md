@@ -1,7 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/102499217/181905316-5e618322-f0c6-41fd-b1c9-4d19a38093a4.png)](https://tiffaniyuki.io)
 <h1 align="center">Hi 👋, I'm Tiffani Rojas ♡</h1>
-<h3 align="center">A 27 year old woman just trying to figure this thing called coding out. Currently attending Flatiron School.</h3>
-<img align="right" alt="Coding" width="400" src=https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv>
+<h3 align="center">A 27 year old woman just trying to figure this thing called coding out! 
+I'm currently attending Flatiron School for Software Engineering.</h3>
+<img align="right" alt="Coding" width="400" src=https://miro.medium.com/max/996/0*JqSPrPfQ72m3wLNu.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiffaniyuki&label=Profile%20views&color=0e75b6&style=flat" alt="tiffaniyuki" /> </p>
 
