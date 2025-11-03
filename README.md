@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/102499217/181905316-5e618322-f0c6-41fd-b1c9-4d19a38093a4.png)](https://tiffaniyuki.io)
 
 <h1 align="center">Hi 👋, I'm Tiffani Rojas</h1>
-<h3 align="center">A 29 year old woman just trying to figure this thing called coding out..</h3>
+<h3 align="center">A 30 year old woman just trying to figure this thing called coding out..</h3>
 <img align="right" alt="Coding" width="400" src=https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tiffaniyuki&label=Profile%20views&color=0e75b6&style=flat" alt="Tiffaniyuki" /> </p>
@@ -13,6 +13,10 @@
 - 📫 How to reach me **Tiffaniyrojas@gmail.com**
 
 - ⚡ Fun fact **I have a big German Shepherd that is allergic to everything!**
+
+- 🎓 Graduated from Los Angeles Mission College with an Associate of Science in Full Stack Development. Currently finishing my Bachelor’s in Computer Science. 
+
+- 🏅  Received a Certificate of Achievement in Full Stack Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
